@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://twitter.com/shkshreyas/photo"  />
+  <img height="150" src="https://avatars.githubusercontent.com/u/94731699?s=96&v=4"  />
 </div>
 
 ###
