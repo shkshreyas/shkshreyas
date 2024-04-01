@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">𝕴'𝖒 𝕾𝖍𝖗𝖊𝖞𝖆𝖘 𝖋𝖗𝖔𝖒 𝕴𝖓𝖉𝖎𝖆<br><br>- 📚 I'm currently learning Game Development</p>
+<p align="left">I'm Shreyas from India<br><br>- 📚 I'm currently learning Game Development</p>
 
 ###
 
@@ -79,5 +79,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shkshreyas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
